@@ -1,1 +1,1 @@
-# Reverse-shell-connector
+# A simple reverse shell written in C
