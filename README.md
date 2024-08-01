@@ -8,7 +8,7 @@ It can be used for secure remote shell access to a target machine.
 - **Secure Connection**: Utilizes SSL/TLS for encrypted communication between client and server.
 - **Cross-Protocol Support**: Works with both IPv4 and IPv6.
 - **Timeout Handling**: Configurable socket timeout to handle connection issues.
-- **Signal Handling**: Gracefully exits on interrupt signals.
+- **Signal Handling**: Exits on interrupt signals.
 - **Dynamic Shell Spawning**: Launches a shell on the remote server upon successful connection.
 
 ## Prerequisites
