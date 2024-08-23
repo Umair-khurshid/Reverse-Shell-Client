@@ -21,7 +21,7 @@ It can be used for secure remote shell access to a target machine.
 
 1. **Clone the Repository**:
    ```bash
-	git clone git@github.com:Umair-khurshid/Reverse-Shell-Client.git
+	git clone git@github.com/Umair-khurshid/Reverse-Shell-Client.git
 	cd Reverse-Shell-Client
    ```
    
